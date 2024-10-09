@@ -1,0 +1,27 @@
+---
+Language: Cpp
+BasedOnStyle: Google
+AlignAfterOpenBracket: 'AlwaysBreak'
+AllowAllConstructorInitializersOnNextLine: 'false'
+AllowAllParametersOfDeclarationOnNextLine: 'false'
+AlignConsecutiveMacros: 'true'
+AllowShortCaseLabelsOnASingleLine: 'true'
+AllowShortFunctionsOnASingleLine: 'None'
+AllowShortIfStatementsOnASingleLine: 'Never'
+AllowShortLoopsOnASingleLine: 'false'
+BreakBeforeBraces: Allman
+BinPackArguments: 'false'
+BinPackParameters: 'false'
+Cpp11BracedListStyle: 'false'
+ColumnLimit: 180
+NamespaceIndentation: All
+SpaceAfterTemplateKeyword: 'false'
+SpaceBeforeCtorInitializerColon: 'true'
+SpaceBeforeInheritanceColon: 'true'
+SpaceBeforeParens: ControlStatements
+SpaceBeforeRangeBasedForLoopColon: 'true'
+SpaceInEmptyBlock: true
+Standard: 'Latest'
+IndentWidth: 4
+IndentPPDirectives: BeforeHash
+...
