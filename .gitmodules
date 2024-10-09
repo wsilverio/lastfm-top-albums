@@ -1,0 +1,6 @@
+[submodule "3rd/poco"]
+	path = 3rd/poco
+	url = https://github.com/pocoproject/poco.git
+[submodule "3rd/opencv"]
+	path = 3rd/opencv
+	url = https://github.com/opencv/opencv.git
